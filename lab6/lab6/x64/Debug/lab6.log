@@ -1,0 +1,7 @@
+﻿  editor.cpp
+  lab6.cpp
+  shape.cpp
+  shape_editor.cpp
+  Создание кода...
+C:\Users\Dimon\source\repos\lab6\lab6\shape_editor.cpp(180,31): warning C4018: <: несоответствие типов со знаком и без знака
+  lab6.vcxproj -> C:\Users\Dimon\source\repos\lab6\x64\Debug\lab6.exe
